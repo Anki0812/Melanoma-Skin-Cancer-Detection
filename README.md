@@ -30,6 +30,7 @@ The data set contains the following diseases:
 - At initial stage overfitting was observed with great fluctuation in validation accuracy
 - On modifying some images, the model became less overfitted but the accuracy had to be improved
 - Accuracy on training data has increased by using Augmentor libraryof 90% and validation accuracy of 83%
+- Melanoma Detection Accuracy: 0.8644
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
